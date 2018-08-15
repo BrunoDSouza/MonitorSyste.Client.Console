@@ -1,0 +1,10 @@
+# folder solutions
+Debug/
+bin/
+obj/
+Temp/
+
+# extensions for files
+*.pbd
+*.suo
+
