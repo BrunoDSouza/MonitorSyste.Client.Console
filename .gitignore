@@ -3,6 +3,9 @@ Debug/
 bin/
 obj/
 Temp/
+.vs/
+node_modules/
+packages/
 
 # extensions for files
 *.pbd
