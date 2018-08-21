@@ -3,11 +3,11 @@ A simple appiclation to monitoring your processes that are running on your compu
 
 ## Build Setup
 
-##Requirements
+#Requirements
 * Visual Studio >= 2015
 * .NET Framework >= 4.6.*
 
-##Dependencies
+#Dependencies
 * [MonitorSystem.Core](https://github.com/BrunoDSouza/MonitorSystem.Core)
 
 ``` bash
@@ -16,9 +16,9 @@ Packages will be restored automatically by nuget, but case you want mannually ru
 Packages-Install --reinstall
 
 # serve with hot reload at localhost:8080
-run debug
+run debug (F5)
 
 # build for production
-npm release
+run release (F5)
 ```
 
